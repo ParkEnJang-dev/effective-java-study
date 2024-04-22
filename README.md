@@ -1,7 +1,7 @@
 #이펙티브자바(Effective java) STUDY
 
 
-# Effective Java <img src="https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif" alt="coding" width="40px" />
+# Effective Java 
 
 <img width="834" alt="image" src="https://image.yes24.com/goods/65551284/XL">
 
