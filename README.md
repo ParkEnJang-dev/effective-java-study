@@ -3,7 +3,7 @@
 
 # Effective Java 
 
-<img width="834" alt="image" src="https://image.yes24.com/goods/65551284/XL">
+<img width="834" alt="image" src="https://image.yes24.com/goods/65551284/L">
 
 - [이펙티브 자바 Effective Java 3/E](http://www.yes24.com/Product/Goods/65551284)
 
