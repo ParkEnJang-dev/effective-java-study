@@ -29,8 +29,8 @@
         <th style="height: 20px;" class="row-headers-background">
             <div class="row-header-wrapper" style="line-height: 20px">1</div>
         </th>
-        <th dir="ltr">4.18 ~ 4.24 </th>
-        <td dir="ltr">1 ~ 5</td>
+        <th dir="ltr">4.25 ~ 5.01 </th>
+        <td dir="ltr">1 ~ 9</td>
         <td dir="ltr">⬜</td>
         <td dir="ltr">⬜</td>
     </tr>
@@ -45,6 +45,6 @@
     </tr>
 
     
-    </tbody>
+    
 </table>
 
