@@ -6,4 +6,5 @@
 * float, double 필드는 Float.compare, Double.compare를 사용하자
 * Float.equals, Double.equals는 사용하지 말자
 * 꼭 필요한 경우가 아미녀 equals를 재정의 하지 말자.
+* equals를 재정의 할 때 hashCode도 반드시 재정의 하자.
 
