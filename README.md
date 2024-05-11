@@ -1,7 +1,6 @@
 # 이펙티브자바(Effective java) STUDY
 
-
-# Effective Java 
+# Effective Java
 
 <img width="200" alt="image" src="https://image.yes24.com/goods/65551284/L">
 
@@ -13,6 +12,7 @@
 2. 램덤으로 하나 item 설명하기
 
 ## 📚 진행 일정
+
 ✅⬜
 <table class="waffle" cellspacing="0" cellpadding="0">
     <thead>
@@ -31,20 +31,29 @@
         </th>
         <th dir="ltr">4.25 ~ 5.01 </th>
         <td dir="ltr">1 ~ 9</td>
-        <td dir="ltr">⬜</td>
+        <td dir="ltr">✅</td>
         <td dir="ltr">⬜</td>
     </tr>
     <tr style="height: 20px">
         <th id="32334081R1" style="height: 20px;" class="row-headers-background">
             <div class="row-header-wrapper" style="line-height: 20px">2</div>
         </th>
-        <th dir="ltr"></th>
-        <td dir="ltr"></td>
-        <td dir="ltr"></td>
-        <td dir="ltr"></td>
+        <th dir="ltr">5.02 ~ 5.08</th>
+        <td dir="ltr">10 ~ 14</td>
+        <td dir="ltr">✅</td>
+        <td dir="ltr">⬜</td>
+    </tr>
+    <tr style="height: 20px">
+        <th id="32334081R1" style="height: 20px;" class="row-headers-background">
+            <div class="row-header-wrapper" style="line-height: 20px">3</div>
+        </th>
+        <th dir="ltr">5.09 ~ 5.13</th>
+        <td dir="ltr">15 ~ 16</td>
+        <td dir="ltr">⬜</td>
+        <td dir="ltr">⬜</td>
     </tr>
 
-    
-    
+
+
 </table>
 
