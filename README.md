@@ -52,6 +52,15 @@
         <td dir="ltr">⬜</td>
         <td dir="ltr">⬜</td>
     </tr>
+    <tr style="height: 20px">
+        <th id="32334081R1" style="height: 20px;" class="row-headers-background">
+            <div class="row-header-wrapper" style="line-height: 20px">3</div>
+        </th>
+        <th dir="ltr">5.21~ 5.28</th>
+        <td dir="ltr">17 ~ 20</td>
+        <td dir="ltr">⬜</td>
+        <td dir="ltr">⬜</td>
+    </tr>
 
 
 
