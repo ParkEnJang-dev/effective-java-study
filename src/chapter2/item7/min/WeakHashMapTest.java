@@ -5,6 +5,7 @@ import java.util.LinkedHashMap;
 import java.util.WeakHashMap;
 
 public class WeakHashMapTest {
+
     public static void main(String[] args) {
         WeakHashMap<Integer, String> weakHashMap = new WeakHashMap<>();
         HashMap<Integer, String> hashMap = new HashMap<>();
@@ -22,6 +23,7 @@ public class WeakHashMapTest {
         //linkedHashMap.put(key4, "linked test b");
 
         key3 = null;
+        key1 = null;
         System.gc();  //강제 Garbage Collection
 
         weakHashMap.entrySet().stream().forEach(el -> System.out.println(el));

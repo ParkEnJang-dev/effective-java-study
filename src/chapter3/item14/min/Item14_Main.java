@@ -1,5 +1,6 @@
 package chapter3.item14.min;
 
+import java.math.BigDecimal;
 import java.util.Collection;
 import java.util.Collections;
 import java.util.Set;
@@ -16,5 +17,11 @@ public class Item14_Main {
 
         Integer i = 1;
         System.out.println(i.compareTo(0));
+
+
+        BigDecimal bd = BigDecimal.valueOf(1.0);
+        BigDecimal bd2 = BigDecimal.valueOf(2.0);
+        BigDecimal sum = bd2.abs();
+
     }
 }
