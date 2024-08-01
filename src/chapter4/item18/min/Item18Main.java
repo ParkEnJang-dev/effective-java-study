@@ -8,11 +8,12 @@ public class Item18Main {
 
     public static void main(String[] args) {
 
-        CustomHashSet<String> customHashSet = new CustomHashSet<>(new HashSet<>());
+//        CustomHashSet<String> customHashSet = new CustomHashSet<>(new HashSet<>());
+        CustomHashSet<String> customHashSet = new CustomHashSet<>();
         List<String> test = Arrays.asList("틱","탁탁","펑");
         customHashSet.addAll(test);
 
-        System.out.println(customHashSet.getAddCount());
+        System.out.println("test = "+customHashSet.getAddCount());
 
         Dog dog = new Dog();
         //dog 에서 재정의 하여 원하는 바와 다르게 동작한다.

@@ -4,19 +4,28 @@ import java.util.Collection;
 import java.util.HashSet;
 import java.util.Set;
 
-public class CustomHashSet<E> extends ForwardingSet {
+public class CustomHashSet<E> extends HashSet<E> {
     private int addCount = 0;
 
-    public CustomHashSet(Set<E> set) {
-        super(set);
+//    public CustomHashSet(Set<E> set) {
+//        super(set);
+//    }
+    public CustomHashSet() {
     }
 
-//    public CustomHashSet(int initCap, float loadFactor) {
-//        super(initCap, loadFactor);
+    public CustomHashSet(int initCap, float loadFactor) {
+        super(initCap, loadFactor);
+    }
+
+//    @Override
+//    public boolean add(Object o) {
+//        addCount++;
+//        System.out.println("add " + addCount);
+//        return super.add(o);
 //    }
 
     @Override
-    public boolean add(Object o) {
+    public boolean add(E o) {
         addCount++;
         System.out.println("add " + addCount);
         return super.add(o);

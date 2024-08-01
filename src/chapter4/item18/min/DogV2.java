@@ -27,4 +27,5 @@ public class DogV2 implements AnimalFeature{
     public String animalType() {
         return animal.animalType();
     }
+
 }
