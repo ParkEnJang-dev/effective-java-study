@@ -30,7 +30,7 @@
       <a href="https://github.com/JinseoPark-bd">
         <img src="https://avatars.githubusercontent.com/u/73384343?v=4" width="100px;" alt=""/>
         <br />
-        <sub>박진석</sub>
+        <sub>박진서</sub>
       </a>
     </td>
   </tr>
