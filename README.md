@@ -116,8 +116,8 @@
         </th>
         <th dir="ltr">4.25 ~ 5.01 </th>
         <td dir="ltr">1 ~ 9</td>
-        <td dir="ltr">✅</td>
-        <td dir="ltr">✅</td>
+        <td dir="ltr"></td>
+        <td dir="ltr"></td>
     </tr>
     <tr style="height: 20px">
         <th id="32334081R1" style="height: 20px;" class="row-headers-background">
@@ -125,8 +125,8 @@
         </th>
         <th dir="ltr">5.02 ~ 5.08</th>
         <td dir="ltr">10 ~ 14</td>
-        <td dir="ltr">✅</td>
-        <td dir="ltr">✅</td>
+        <td dir="ltr"></td>
+        <td dir="ltr"></td>
     </tr>
     <tr style="height: 20px">
         <th id="32334081R1" style="height: 20px;" class="row-headers-background">
@@ -134,8 +134,8 @@
         </th>
         <th dir="ltr">5.09 ~ 5.13</th>
         <td dir="ltr">15 ~ 16</td>
-        <td dir="ltr">✅</td>
-        <td dir="ltr">✅</td>
+        <td dir="ltr"></td>
+        <td dir="ltr"></td>
     </tr>
     <tr style="height: 20px">
         <th id="32334081R1" style="height: 20px;" class="row-headers-background">
@@ -143,8 +143,8 @@
         </th>
         <th dir="ltr">5.21~ 5.28</th>
         <td dir="ltr">17 ~ 20</td>
-        <td dir="ltr">✅</td>
-        <td dir="ltr">✅</td>
+        <td dir="ltr"></td>
+        <td dir="ltr"></td>
     </tr>
     <tr style="height: 20px">
         <th id="32334081R1" style="height: 20px;" class="row-headers-background">
@@ -152,8 +152,17 @@
         </th>
         <th dir="ltr">10.20~ 10.23</th>
         <td dir="ltr">26</td>
-        <td dir="ltr">⬜</td>
-        <td dir="ltr">⬜</td>
+        <td dir="ltr"></td>
+        <td dir="ltr"></td>
+    </tr>
+   <tr style="height: 20px">
+           <th id="32334081R1" style="height: 20px;" class="row-headers-background">
+               <div class="row-header-wrapper" style="line-height: 20px">5</div>
+           </th>
+           <th dir="ltr">10.24 ~ 10.31</th>
+           <td dir="ltr">32</td>
+           <td dir="ltr">27,28,29</td>
+           <td dir="ltr">30,31,32</td>
     </tr>
 
 </table>
