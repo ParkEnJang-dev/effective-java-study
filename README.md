@@ -151,7 +151,7 @@
             <div class="row-header-wrapper" style="line-height: 20px">5</div>
         </th>
         <th dir="ltr">10.20~ 10.23</th>
-        <td dir="ltr">26</td>
+        <td dir="ltr">20 ~ 26</td>
         <td dir="ltr"></td>
         <td dir="ltr"></td>
     </tr>
@@ -160,7 +160,7 @@
                <div class="row-header-wrapper" style="line-height: 20px">6</div>
            </th>
            <th dir="ltr">10.24 ~ 10.31</th>
-           <td dir="ltr">32</td>
+           <td dir="ltr">27 ~ 32</td>
            <td dir="ltr">27,28,29</td>
            <td dir="ltr">30,31,32</td>
     </tr>
@@ -169,7 +169,7 @@
                <div class="row-header-wrapper" style="line-height: 20px">7</div>
            </th>
            <th dir="ltr">11.01 ~ 11.07</th>
-           <td dir="ltr">~38</td>
+           <td dir="ltr">33 ~ 38</td>
            <td dir="ltr">33,34,35</td>
            <td dir="ltr">36,37,38</td>
     </tr>
