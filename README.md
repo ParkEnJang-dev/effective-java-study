@@ -157,12 +157,21 @@
     </tr>
    <tr style="height: 20px">
            <th id="32334081R1" style="height: 20px;" class="row-headers-background">
-               <div class="row-header-wrapper" style="line-height: 20px">5</div>
+               <div class="row-header-wrapper" style="line-height: 20px">6</div>
            </th>
            <th dir="ltr">10.24 ~ 10.31</th>
            <td dir="ltr">32</td>
            <td dir="ltr">27,28,29</td>
            <td dir="ltr">30,31,32</td>
+    </tr>
+    <tr style="height: 20px">
+           <th id="32334081R1" style="height: 20px;" class="row-headers-background">
+               <div class="row-header-wrapper" style="line-height: 20px">7</div>
+           </th>
+           <th dir="ltr">11.01 ~ 11.07</th>
+           <td dir="ltr">~38</td>
+           <td dir="ltr">33,34,35</td>
+           <td dir="ltr">36,37,38</td>
     </tr>
 
 </table>
