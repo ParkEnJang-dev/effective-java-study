@@ -49,7 +49,7 @@
    - 1주에 공부한 item중 정해진 아이템 1개를 발표한다.
    - 스터디전 까지 PR을 완료한다.
 4. 패널티
-   - 기간내 PR을 완료하지 못할 시. 벌금 2,000원
+   - 기간내 PR을 완료하지 못할 시. 벌금 10,000원
 
 <br/>
 
@@ -172,6 +172,15 @@
            <td dir="ltr">33 ~ 38</td>
            <td dir="ltr">33,34,35</td>
            <td dir="ltr">36,37,38</td>
+    </tr>
+    <tr style="height: 20px">
+           <th id="32334081R1" style="height: 20px;" class="row-headers-background">
+               <div class="row-header-wrapper" style="line-height: 20px">7</div>
+           </th>
+           <th dir="ltr">11.08 ~ 11.13</th>
+           <td dir="ltr">39 ~ 44</td>
+           <td dir="ltr">39,40,41</td>
+           <td dir="ltr">42,43,44</td>
     </tr>
 
 </table>
