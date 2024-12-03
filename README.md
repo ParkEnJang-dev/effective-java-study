@@ -200,6 +200,15 @@
            <td dir="ltr">51,52,53</td>
            <td dir="ltr">54,55,56</td>
     </tr>
+    <tr style="height: 20px">
+           <th id="32334081R1" style="height: 20px;" class="row-headers-background">
+               <div class="row-header-wrapper" style="line-height: 20px">11</div>
+           </th>
+           <th dir="ltr">12.1 ~ 12.27</th>
+           <td dir="ltr">57 ~ 62</td>
+           <td dir="ltr">57,58,59</td>
+           <td dir="ltr">60,61,12</td>
+    </tr>
 
 </table>
 
