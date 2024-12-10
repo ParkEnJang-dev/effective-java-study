@@ -204,10 +204,19 @@
            <th id="32334081R1" style="height: 20px;" class="row-headers-background">
                <div class="row-header-wrapper" style="line-height: 20px">11</div>
            </th>
-           <th dir="ltr">12.1 ~ 12.27</th>
+           <th dir="ltr">12.01 ~ 12.07</th>
            <td dir="ltr">57 ~ 62</td>
            <td dir="ltr">57,58,59</td>
-           <td dir="ltr">60,61,12</td>
+           <td dir="ltr">60,61,62</td>
+    </tr>
+    <tr style="height: 20px">
+           <th id="32334081R1" style="height: 20px;" class="row-headers-background">
+               <div class="row-header-wrapper" style="line-height: 20px">12</div>
+           </th>
+           <th dir="ltr">12.08 ~ 12.11</th>
+           <td dir="ltr">63 ~ 66</td>
+           <td dir="ltr">63,64</td>
+           <td dir="ltr">65,66</td>
     </tr>
 
 </table>
