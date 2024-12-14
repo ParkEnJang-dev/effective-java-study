@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/2장_객체_생성과_파괴" isTestSource="false" packagePrefix="chapter2" />
+      <sourceFolder url="file://$MODULE_DIR$/3장_모든_객체의_공통_메서드" isTestSource="false" packagePrefix="chapter3" />
+      <sourceFolder url="file://$MODULE_DIR$/4장_클래스와_인터페이스" isTestSource="false" packagePrefix="chapter4" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
