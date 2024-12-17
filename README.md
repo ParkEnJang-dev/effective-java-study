@@ -6,7 +6,6 @@
 
 - [이펙티브 자바 Effective Java 3/E](http://www.yes24.com/Product/Goods/65551284)
 
-
 ## 목차
 
 * [스터디 멤버](#스터디-멤버)
@@ -17,6 +16,7 @@
 <br/>
 
 ## 스터디 멤버
+
 <table>
   <tr>
     <td align="center">
@@ -41,19 +41,20 @@
 ## 스터디 규칙
 
 1. 일정
-   - 매주 수요일 20:00 ~ 21:00(1시간)
+    - 매주 수요일 20:00 ~ 21:00(1시간)
 2. 커뮤니케이션 툴
-   - Discord
+    - Discord
 3. 스터디 방식
-   - 1주에 정해진 item을 각자 읽고 정리한다.
-   - 1주에 공부한 item중 정해진 아이템 1개를 발표한다.
-   - 스터디전 까지 PR을 완료한다.
+    - 1주에 정해진 item을 각자 읽고 정리한다.
+    - 1주에 공부한 item중 정해진 아이템 1개를 발표한다.
+    - 스터디전 까지 PR을 완료한다.
 4. 패널티
-   - 기간내 PR을 완료하지 못할 시. 벌금 10,000원
+    - 기간내 PR을 완료하지 못할 시. 벌금 10,000원
 
 <br/>
 
 ## 참여 방법
+
 1. 각자의 branch를 생성한다. 예 : `minsub`
 2. 각 챕터 폴더의 `각자 이름`으로 폴더를 생성 한다.
 3. 정리된 {item}.md 후 Master 에 `PR`를 보낸다.
@@ -62,38 +63,45 @@
 - 아래 나와있는`저장 폴더 구조`와 `Convention 규칙`을 지키면서 참여한다.
 
 ### 저장 폴더 구조
+
 ```
 {각 챕터}/{각자 이름}/{아이템이름}.{확장자}
 ```
+
 - 예) 2장_객체_생성과_파괴/minsub/item1.md
 
 ### Convention 규칙
+
 > commit 컨벤션은 gitmoji 와 AngularJS Git Commit Message Conventions을 참고
 
 ### PR - item
+
 ```
  [해당 주차] 제출 - {이름}  
 ```
+
 - 💡 예시: `[1주차] 제출 - 장민섭`
 
-### Commit - item 
+### Commit - item
+
 ```
  태그: {item}
 ``` 
+
 - 💡 예시: `docs: item1.md 정리`
 
-
-
 ### 태그
-| 태그       | 설명                    |
-|:---------|:------------------------|
-| feat     | 새로운 문제 추가            |
-| fix      | 버그 혹은 충돌 수정             |
-| refactor | 코드 리팩토링              |
-| comment  | 주석 추가(코드 변경 X) 혹은 오타 수정 |
-| docs     | README와 같은 문서 혹은 그 외 파일 수정 및 추가       |
-| rename   | 파일, 폴더명 수정 혹은 이동        |
-| delete   | 파일, 폴더 삭제        |
+
+| 태그       | 설명                              |
+|:---------|:--------------------------------|
+| feat     | 새로운 문제 추가                       |
+| fix      | 버그 혹은 충돌 수정                     |
+| refactor | 코드 리팩토링                         |
+| comment  | 주석 추가(코드 변경 X) 혹은 오타 수정         |
+| docs     | README와 같은 문서 혹은 그 외 파일 수정 및 추가 |
+| rename   | 파일, 폴더명 수정 혹은 이동                |
+| delete   | 파일, 폴더 삭제                       |
+
 <br/>
 
 ## 진행 일정
@@ -217,6 +225,15 @@
            <td dir="ltr">63 ~ 66</td>
            <td dir="ltr">63,64</td>
            <td dir="ltr">65,66</td>
+    </tr>
+   <tr style="height: 20px">
+           <th id="32334081R1" style="height: 20px;" class="row-headers-background">
+               <div class="row-header-wrapper" style="line-height: 20px">13</div>
+           </th>
+           <th dir="ltr">12.15 ~ 12.18</th>
+           <td dir="ltr">67 ~ 72</td>
+           <td dir="ltr">67,68,69</td>
+           <td dir="ltr">70,71,72</td>
     </tr>
 
 </table>
